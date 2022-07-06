@@ -11,5 +11,5 @@ Implemented algorithms:
 
 Features:
 1) Colored representation of step being executed.
-2) 3 Controls for visualizations
+2) Three Controls for visualizations like managing speed size of array
 4) Time and Space complexity of algorithm being visualized.
